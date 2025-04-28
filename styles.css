@@ -1,4 +1,15 @@
 #heading {
+    width: 100%;
+    margin: 0;
+    padding: 10px;
     font-size: 50px;
-    color:rgb(38, 95, 95)
+    color: rgb(255, 255, 255);
+    background-color: rgb(187, 187, 187);
+    border-bottom: 5px solid rgb(38, 95, 95); /* ← example border */
+}
+
+#contactbox {
+    border-radius: 10px 12px 10px 12px;
+    border-style: outset;
+    background-color: rgb(187, 187, 187);
 }
